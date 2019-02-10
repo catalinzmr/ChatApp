@@ -9,6 +9,11 @@
     android:orientation="vertical">
 
     <Button
+        android:id="@+id/findUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gasire Contacte" />
+    <Button
         android:id="@+id/logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
